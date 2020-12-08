@@ -1,0 +1,26 @@
+<resources>
+  <string name="app_name">Trippey</string>
+  <string name="trip_title_hint">Trip title</string>
+  <string name="trip_country_hint">Country</string>
+  <string name="add_trip_button_text">Add trip</string>
+  <string name="yes">Yes</string>
+  <string name="cancel">Cancel</string>
+  <string name="delete_title">Delete item</string>
+  <string name="delete_message">Are you sure you want to delete %s?</string>
+  <string name="no_filter">No filter</string>
+  <string name="filter_by_genre">Filter by genre</string>
+  <string name="filter_by_rating">Filter by rating</string>
+  <string name="confirm_filter">Confirm filter</string>
+  <string name="trip_image_hint">Trip image URL (optional)</string>
+  <string name="trip_description_hint">Trip description</string>
+  <string name="location_name_hint">Location name</string>
+  <string name="location_address_hint">Location address</string>
+  <string name="add_trip_location_text">Add trip location</string>
+  <string name="location_image_url_hint">Location Image Url (Optional)</string>
+  <string name="filter_options_content_description">Filter options</string>
+  <string name="sort_options_title">Choose a way to sort your trips!</string>
+  <string name="no_sort_order">No sort order</string>
+  <string name="sort_by_title_order">Sort by title</string>
+  <string name="sort_by_number_of_locations_order">Sort by number of locations</string>
+  <string name="apply_sort_order_text">Apply sort order</string>
+</resources>
